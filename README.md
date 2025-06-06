@@ -115,5 +115,4 @@ Download and merge complete.
 Contributions are welcome! If you have suggestions for improvements or encounter issues, please open an issue or submit a pull request.
 
 ## 📄 License
-
-MIT
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
